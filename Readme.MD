@@ -1,26 +1,24 @@
-# Potential Updates
+# Notes
 
 ## Assets
 * [Web Site](http://broadwaterfl.org/)
-* [Offline Communications]
+* Offline Communications & Organization
 * 
+
 ## Meetings 
 
 ## Tools
 With a 501 c3 disignation you have access to all sorts of tech for free or at a discount
 Need to investiate 501c4 - I have a guy for that
 
+### Suites
+[Office365](https://products.office.com/en-gb/business/office) - [Non-Profit Discount](https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1) (0-$3/user/month)
 
 
-Suites
-[Office365]()
-
-
-Email
-
-[TinyLeter](https://app.tinyletter.com/)
-
-[MailChimp](https://mailchimp.com/) - [Pricing Discount](https://kb.mailchimp.com/accounts/billing/about-mailchimp-discounts) 15%, potentially 23% (w/ 2-factor auth)
+### Email
+* [Email Marketing Comparison Grid](http://uk.pcmag.com/e-mail-products/3708/guide/the-best-email-marketing-software-of-2018)
+* [TinyLeter](https://app.tinyletter.com/)
+* [MailChimp](https://mailchimp.com/) - [Pricing Discount](https://kb.mailchimp.com/accounts/billing/about-mailchimp-discounts) 15%, potentially 23% (w/ 2-factor auth)
 
 CRM / Marketing Comm Database
 
@@ -67,3 +65,23 @@ CRM / Marketing Comm Database
     * Helping Hands
     * 
 * Why is the email called "infolink" and the print newsletter called "breeze"?
+* Has there ever any discussion about home tours?
+* Housing stock appeal to mid-centiry modern?
+* Why is there no history of the neighborhood on the website?
+* How do peopole show interest and get information about?
+    * Sports & Rec
+    * Social Events
+    * Neighborhood beutification
+    * Family & Children's Activities
+    * Civic & Community Affairs
+* How do people go from interested to enaged?
+* How do they join a committee? timeines process, time commitment?
+* What are the comittees?
+    * Membership
+    * Historic Presevation
+    * Traffic, Saftey, Crime watch
+    * Comms
+    
+
+
+
