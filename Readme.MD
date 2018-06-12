@@ -1,4 +1,5 @@
 # Website project
+[Association Project - Public Notes](https://jkind.github.io/broadwater/)
 
 ## Tasks
 1. Define highlights to add to city website. Assigntment? In-Flight?
