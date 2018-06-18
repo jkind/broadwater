@@ -1,0 +1,22 @@
+{
+  "name": "broadwater",
+  "version": "1.0.0",
+  "description": "[Association Project - Public Notes](https://jkind.github.io/broadwater/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkind/broadwater.git"
+  },
+  "author": "jkind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkind/broadwater/issues"
+  },
+  "homepage": "https://github.com/jkind/broadwater#readme"
+}
