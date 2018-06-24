@@ -4,7 +4,7 @@
 With a 501 c3 disignation you have access to all sorts of tech for free or at a discount
 Need to investiate 501c4
 
-Currently use mailchimpks
+Currently use mailchimps
 
 ### Suites
 [Office365](https://products.office.com/en-gb/business/office) - [Non-Profit Discount](https://products.office.com/en-us/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1) (0-$3/user/month)
